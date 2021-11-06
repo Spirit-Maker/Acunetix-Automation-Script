@@ -54,3 +54,7 @@ optional arguments:
  
  # Limitations
  When mulitple scans are running, acunetix API becomes unresponsive, currenlty no bypass against timeout
+ 
+ # Donation
+ You can donate me via BTC link below
+ bc1q5aa5r8j9ngvxgec5pmc82j4c984v6y80mvjd3h

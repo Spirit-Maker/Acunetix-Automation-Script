@@ -1,0 +1,4 @@
+pyfiglet==0.8.post1
+requests==2.26.0
+colorama==0.4.4
+random-user-agent==1.0.1
